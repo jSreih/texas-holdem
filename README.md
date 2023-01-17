@@ -1,5 +1,5 @@
 # Texas Holdem
-Can recognize what hand a player has based off the 5 cards on the tabel
+Can recognize what hand a player has based off the 5 cards on the table and the 2 cards in his hand. 
 
 ### Instructions 
 1. `https://github.com/jSreih/texas-holdem.git`
